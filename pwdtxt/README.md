@@ -1,0 +1,2 @@
+可以通过config.py文件下的black_name_list过滤域名的前后缀
+可以通过config.py文件下的pwd_m_list添加或删除密码母本
